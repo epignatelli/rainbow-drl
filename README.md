@@ -8,3 +8,13 @@ This is a jax implementation of the paper: Hessel, M., Modayil, J., Van Hasselt,
 
 Please, feel free to raise issues to ask questions or flag flaws and mistakes in the implementation.  
 Should you find this useful for you, I would be grateful if you'd _star_:star: it :)
+
+
+Roadmap:
+- [ ] DQN (Deep Q-Network)
+- [ ] DDQN (Double Deep Q-Network)
+- [ ] Prioritized DDQN (Prioritized experience replay)
+- [ ] Dueling DDQN 
+- [ ] A3C (Asynchronous Advantage Actor Critic)
+- [ ] Distributional DQN
+- [ ] Noisy DQN
