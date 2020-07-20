@@ -10,11 +10,13 @@ Please, feel free to raise issues to ask questions or flag flaws and mistakes in
 Should you find this useful for you, I would be grateful if you'd _star_:star: it :)
 
 
-Roadmap:
+Roadmap:  
 - [ ] DQN (Deep Q-Network)
 - [ ] DDQN (Double Deep Q-Network)
 - [ ] Prioritized DDQN (Prioritized experience replay)
-- [ ] Dueling DDQN 
+- [ ] Dueling DDQN
+- [ ] Multi-step learning
 - [ ] A3C (Asynchronous Advantage Actor Critic)
 - [ ] Distributional DQN
 - [ ] Noisy DQN
+- [ ] Multi-
